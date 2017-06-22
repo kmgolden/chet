@@ -1,0 +1,16 @@
+title: this is FILTHY
+description: >
+  Filthy is a global lifestyle brand, magazine, and fashion studio based in Seattle. 
+
+# We love at, design, fashion and music. We live in Seattle but we work in the global context.
+
+baseurl: ""
+url: "https://github.com/kmgolden/filthy"
+paginate:	5 # The number of posts to show per page on your homepage
+name: "this is FILTHY"
+markdown: kramdown
+permalink: none
+kramdown:
+  parse_block_html: true
+gems:
+  - jekyll-paginate
