@@ -5,7 +5,7 @@ description: >
 # We love at, design, fashion and music. We live in Seattle but we work in the global context.
 
 baseurl: ""
-url: "https://github.com/kmgolden/filthy"
+url: "filthy.cc"
 paginate:	5 # The number of posts to show per page on your homepage
 name: "this is FILTHY"
 markdown: kramdown
